@@ -4,6 +4,7 @@ Cadastro de projetos e atividades
 ## Utilização
 ### `yarn install`
 ### `yarn start`
+### Substituir baseURL em ./src/services/api.js para a url da API
 
 ## Ferramentas utilizadas neste projeto
 <p>React Router para navegação das paginas</p>
